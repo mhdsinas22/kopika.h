@@ -1,0 +1,144 @@
+body{
+    margin: 0px;
+    background-color: black;
+}
+
+
+.class-1{
+    text-decoration: none;
+    font-size: x-large;
+   padding-top: 10px;
+    color: #b7b7b7;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100px;
+   
+}
+.W-H6{
+    margin-top: 0px;
+    color: #b7b7b7;
+    margin-bottom: 0px;
+   
+}
+.header-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding: 10px;
+}
+.ayn-div{
+  margin-top: 100pxz;
+
+}
+
+.header-2{
+    background-color: black;
+ padding: 10px;
+    
+}
+.ul-1 {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+  text-align: center;
+    align-items: center;
+    font-size: xx-small;
+    justify-content: center;
+    color: #fff;
+  
+   
+    
+}
+.ul-1 li{
+    padding-left: 10px;
+    margin-top: -5px;
+ 
+}
+.div-1{
+    width: 100%;
+    
+}
+.div-hr{
+   
+}
+.thick{
+   height: 0.1px;
+    width: 50%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: none;
+    background-color: #b7b7b7;
+    margin-left: 200px;
+    padding-right: 200px;
+   
+ 
+    padding-left: 500px;
+ 
+    
+}
+.pre-1{
+    font-size: x-small;
+    font-weight: bold;
+    color: #fff;
+   
+}
+.header-3{
+    background-color: black;
+    margin-top: -15px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+   
+}
+.photo-div{
+    background-color: black;
+}
+.h6-pre{
+    color: #fff;
+    margin-left: 250px;
+   
+}
+.last-ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    margin-right: 100px;
+    margin-top: 100px;
+    align-items: center;
+    background-color: black;
+
+}.last-ul li{
+    margin-left:100px ;
+}
+.header-second-last{
+    background-color: black;
+}
+.copy-p{
+    color: #b7b7b7;
+}
+.span{
+    color: #fff;
+}
+.div-last{
+    font-size: x-small;
+   text-align: center;
+   margin-top: 100px;
+}
+.class-1:hover{
+    color: red;
+}
+#home{
+    color: red;
+    
+}
+#sep:hover{
+    color: red;
+
+}
+.v{
+    font-size: 8px;
+    
+}
